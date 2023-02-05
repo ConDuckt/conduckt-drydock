@@ -104,3 +104,8 @@ You are required to submit BOTH of the following for review:
 
 - - -
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+MDN Tutorials
+https://via.placeholder.com/500.jpg/1C1D21/FDF6D2/?text=ConDuckt
+https://htmlcolorcodes.com/color-picker/
