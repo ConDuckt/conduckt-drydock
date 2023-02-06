@@ -1,5 +1,5 @@
 * {
-    background-color: #506c7f;
+    background-color: #1c1d21;
     color: #fdf6d2;
     margin: 10px;
     padding: 10px;
@@ -22,10 +22,6 @@ nav {
 
 main section {
     border: 3px solid #f45a36;
-}
-
-img:hover {
-    border: 3px solid #FFC300;
 }
 
 main img {
