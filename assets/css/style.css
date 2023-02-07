@@ -39,11 +39,15 @@ main section div {
     flex-wrap: wrap;
 }
 
-
-
 .color-1 {color: #9ab5c6;}
 .color-2 {color: #506c7f;}
 .color-3 {color: #f45a36;}
 .color-4 {color: #FFC300;}
 .color-5 {color: #fdf6d2;}
 .color-6 {color: #1c1d21;}
+
+@media screen and (max-width: 768px) {
+nav {
+    flex-direction: column;
+  }
+}
