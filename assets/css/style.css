@@ -39,6 +39,8 @@ main section div {
     flex-wrap: wrap;
 }
 
+/* color scheme picked using https://htmlcolorcodes.com/color-picker/  */
+
 .color-1 {color: #9ab5c6;}
 .color-2 {color: #506c7f;}
 .color-3 {color: #f45a36;}
